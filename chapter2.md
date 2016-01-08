@@ -1,3 +1,5 @@
+# Chapter 2: Porta Westfalica
+
 <span id="Chapter_outline" class="anchor"></span>This chapter discusses
 the more technical aspects of the tunnel projects in Jakobsberg and
 Wittekindsberg. First, a brief outline of how the tunnels were selected,
@@ -176,7 +178,7 @@ August 1, 1944
 
 ![](files/media/image6.jpeg)
 
-**Wittekindsberg**
+## **Wittekindsberg**
 
 **Location**
 
@@ -342,7 +344,8 @@ partition in the back of the third floor.[^21] <span id="Wittekindsberg"
 class="anchor"></span>Working conditions would have been very
 uncomfortable due to the inadequate ventilation and long working hours.
 
-<span id="Jakobsberg" class="anchor"></span>**Jakobsberg**
+<span id="Jakobsberg" class="anchor"></span>
+## **Jakobsberg**
 
 **Location**
 
@@ -379,7 +382,8 @@ to the railway system. This area had suffered a large cave-in due to
 excavation into the loose and unstable Cornbrash shale. This section was
 enforced by “steel ribs and timber laggings.”[^24]
 
-<span id="Hammerwerke" class="anchor"></span>**Hammerwerke**
+<span id="Hammerwerke" class="anchor"></span>
+### **Hammerwerke**
 
 A CIOS Report of 1946 offers the most concise details about the
 Hammerwerke project as it existed at the end of the War. The former
@@ -469,7 +473,9 @@ class="anchor"></span>for radar systems. It is unknown whether this move
 actually took place, and there is no record of the company or such
 equipment being found by Allied forces in their reports.
 
-<span id="Dachs_I" class="anchor"></span>**Dachs I**
+<span id="Dachs_I" class="anchor"></span>
+
+## **Dachs I**
 
 The lower section of the tunnel in Jakobsberg was originally assigned to
 the Ambi-Budd company of Berlin for the manufacture of air frames.
@@ -575,18 +581,19 @@ and total only 15 million RM for both Dachs I and Hammerwerke, with only
 2 million RM for the underground excavation.[^47]
 
   <span id="cost_and_labor" class="anchor"></span>
-  **Work**             | **RM**
-  ---------------------------------------------------------------------| --------------
-  1\. Preliminary works                                                | 50,300.00
-  2\. Excavation of first section of tunnels A. B. And C. 34,000 c.M.  | 644,102.80
-  3\. Excavation of second section of tunnels Extensions to A.B. & C.  | 384,331.45
-  4\. Excavation for boiler house 4,000 c.M.                           | 224,128.13
-  5\. Dayworks, 3,500 c.M.                                             | 292,158.88
-  6\. Welfare, traveling expenses, etc                                 | 74,299.36
-  7\. Overhead Charges                                                 | 180,250.00
-  8\. Machinery charges and maintenance                                | 70,200.00
-  9\. Recovery of plant and materials                                  | 8,000.00
-  **TOTAL**                                                            | 1,927,770.62
+
+  **Work**                                                         | **RM**
+  ---------------------------------------------------------------- | --------------
+  Preliminary works                                                | 50,300.00
+  Excavation of first section of tunnels A. B. And C. 34,000 c.M.  | 644,102.80
+  Excavation of second section of tunnels Extensions to A.B. & C.  | 384,331.45
+  Excavation for boiler house 4,000 c.M.                           | 224,128.13
+  Dayworks, 3,500 c.M.                                             | 292,158.88
+  Welfare, traveling expenses, etc                                 | 74,299.36
+  Overhead Charges                                                 | 180,250.00
+  Machinery charges and maintenance                                | 70,200.00
+  Recovery of plant and materials                                  | 8,000.00
+  **TOTAL**                                                        | 1,927,770.62
 
 Deurag-Nerag moved three existing units from their Misburg plant, “A
 two-stage vacuum distillation unit taking 3 side cuts on the primary
@@ -675,8 +682,9 @@ what the factory machinery could provide.[^55] At time of inspection
 airflow was not adequate, the temperature was recorded at 57 F, and
 humidity was uncontrolled “with condensation everywhere.”[^56]
 
-<span id="Other_Projects_Companies_in_th" class="anchor"></span>**Other
-Dispersal Projects**
+<span id="Other_Projects_Companies_in_th" class="anchor"></span>
+
+## **Other Dispersal Projects**
 
 Several other dispersal projects existed in the area. In that his
 project focuses only on the underground factories in Wittekindsberg and
