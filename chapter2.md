@@ -41,7 +41,7 @@ the 19th Century, two separate quarries in Jakobsberg were owned by two
 different families, both of them Jewish. Excavation ceased near the turn
 of the century, and the quarries remained unused until the 1940s.[^1]
 
-![](files/media/image1.png){width="6.5in" height="4.75in"}
+![](files/media/image1.png)
 
 \[<span id="Maps_of_PW" class="anchor"></span>Caption: A map locating
 the major tunnel projects and camp locations. An online, interactive map
@@ -101,7 +101,7 @@ final sketch indicates a scale profile sketch of the mountain, and that
 the mountain is made of sandstone. The page is dated 30 March 1944, and
 signed by Kammler.
 
-![](files/media/image2.jpeg){width="6.5in" height="9.975in"}
+![](files/media/image2.jpeg)
 
 \[<span id="A2_Project_page" class="anchor"></span>Caption: Project page
 for the A2 underground project at Porta Westfalica\]
@@ -168,15 +168,13 @@ August 1, 1944
 
 44 Presses
 
-![](files/media/image3.jpeg){width="6.5in" height="5.472916666666666in"}
+![](files/media/image3.jpeg)
 
-![](files/media/image4.jpeg){width="6.5in" height="5.440972222222222in"}
+![](files/media/image4.jpeg)
 
-![](files/media/image5.jpeg){width="6.5in"
-height="5.4534722222222225in"}
+![](files/media/image5.jpeg)
 
-![](files/media/image6.jpeg){width="6.5in"
-height="5.4534722222222225in"}
+![](files/media/image6.jpeg)
 
 **Wittekindsberg**
 
@@ -202,7 +200,7 @@ at the mouth of the tunnel to seal and protect against possible damage
 from Allied bombing. Each level contained a doorway sized entrance for
 receiving and distributing materials.[^6]
 
-![](files/media/image7.jpeg){width="6.5in" height="7.889583333333333in"}
+![](files/media/image7.jpeg)
 
 \[Caption: The entrance to the Denkmal Stollen. Source: Communal Archive
 Minden.\]
@@ -268,9 +266,9 @@ Water was supplied from by pumping water from the local town’s supply to
 large holding tanks near the factory. Sewage was disposed of by means of
 water flushed directly into the Weser untreated.[^12]
 
-![](files/media/image8.jpeg){width="6.5in" height="5.45in"}
+![](files/media/image8.jpeg)
 
-![](files/media/image9.jpeg){width="6.5in" height="5.45in"}
+![](files/media/image9.jpeg)
 
 \[Caption: Sketches diagraming the Denkmal Stollen. Source: USSBS
 report.\]
@@ -459,8 +457,7 @@ tunnel. Stories were told by forced laborers of sliding down this tunnel
 in order to exit the system through the Dachs I entrance at the end of
 the working day.[^33]
 
-![](files/media/image10.jpeg){width="6.5in"
-height="10.901388888888889in"}
+![](files/media/image10.jpeg)
 
 As was often the case, the floor space in the tunnels was repurposed and
 assigned to other companies as the production needs of the War effort
@@ -530,8 +527,7 @@ Allies. Although 45 different sorties and 40,000 bombs were dropped on
 the area, only 4% of the refineries buildings were destroyed; the
 bombing did destroy 60% of the houses in the area.[^38]
 
-![](files/media/image11.jpeg){width="6.5in"
-height="6.426388888888889in"}
+![](files/media/image11.jpeg)
 
 \[Caption: Destruction of the Misburg oil factory. Source: [^39]\]
 
@@ -548,17 +544,14 @@ was to begin in May 1945, and construction was 85% complete by the end
 of the war. The raw material was to come from a small plant (code name
 "Ofen").[^41]
 
-![](files/media/image12.jpeg){width="6.5in"
-height="5.532638888888889in"}
+![](files/media/image12.jpeg)
 
 \[<span id="tunnel_diagrams" class="anchor"></span>Caption: Diagram of
 Dachs I, included in the USSBS report. Source: [^42]\]
 
-![](files/media/image13.jpeg){width="6.5in"
-height="4.951388888888889in"}
+![](files/media/image13.jpeg)
 
-![](files/media/image14.jpeg){width="6.5in"
-height="4.991666666666666in"}
+![](files/media/image14.jpeg)
 
 \[Caption: Diagrams of Dachs I and Hammerwerke, included in the CIOS
 report. Source: [^43]\]
@@ -581,19 +574,19 @@ the cost of the Dachs I project. The USSBS report estimates a total of
 and total only 15 million RM for both Dachs I and Hammerwerke, with only
 2 million RM for the underground excavation.[^47]
 
-  --------------------------------------------------------------------- --------------
-  <span id="cost_and_labor" class="anchor"></span>**Work**              **RM**
-  1\. Preliminary works                                                 50,300.00
-  2\. Excavation of first section of tunnels A. B. And C. 34,000 c.M.   644,102.80
-  3\. Excavation of second section of tunnels Extensions to A.B. & C.   384,331.45
-  4\. Excavation for boiler house 4,000 c.M.                            224,128.13
-  5\. Dayworks, 3,500 c.M.                                              292,158.88
-  6\. Welfare, traveling expenses, etc                                  74,299.36
-  7\. Overhead Charges                                                  180,250.00
-  8\. Machinery charges and maintenance                                 70,200.00
-  9\. Recovery of plant and materials                                   8,000.00
-  **TOTAL**                                                             1,927,770.62
-  --------------------------------------------------------------------- --------------
+  <span id="cost_and_labor" class="anchor"></span>
+  **Work**             | **RM**
+  ---------------------------------------------------------------------| --------------
+  1\. Preliminary works                                                | 50,300.00
+  2\. Excavation of first section of tunnels A. B. And C. 34,000 c.M.  | 644,102.80
+  3\. Excavation of second section of tunnels Extensions to A.B. & C.  | 384,331.45
+  4\. Excavation for boiler house 4,000 c.M.                           | 224,128.13
+  5\. Dayworks, 3,500 c.M.                                             | 292,158.88
+  6\. Welfare, traveling expenses, etc                                 | 74,299.36
+  7\. Overhead Charges                                                 | 180,250.00
+  8\. Machinery charges and maintenance                                | 70,200.00
+  9\. Recovery of plant and materials                                  | 8,000.00
+  **TOTAL**                                                            | 1,927,770.62
 
 Deurag-Nerag moved three existing units from their Misburg plant, “A
 two-stage vacuum distillation unit taking 3 side cuts on the primary
@@ -640,39 +633,29 @@ and solvent collection machinery. The main hall included several
 chambers opposite the main galleries for furnaces, electrical equipment
 and office space.
 
-![](files/media/image15.jpeg){width="6.5in"
-height="11.324305555555556in"}
+![](files/media/image15.jpeg)
 
-![](files/media/image16.jpeg){width="6.5in"
-height="5.170833333333333in"}
+![](files/media/image16.jpeg)
 
-![](files/media/image17.jpeg){width="6.5in"
-height="12.195833333333333in"}
+![](files/media/image17.jpeg)
 
-![](files/media/image18.jpeg){width="6.5in"
-height="5.194444444444445in"}
+![](files/media/image18.jpeg)
 
-![](files/media/image19.jpeg){width="6.5in"
-height="5.434722222222222in"}
+![](files/media/image19.jpeg)
 
-![](files/media/image20.jpeg){width="6.5in" height="5.96875in"}
+![](files/media/image20.jpeg)
 
-![](files/media/image21.jpeg){width="6.5in"
-height="10.427083333333334in"}
+![](files/media/image21.jpeg)
 
-![](files/media/image22.jpeg){width="6.5in"
-height="11.275694444444444in"}
+![](files/media/image22.jpeg)
 
-![](files/media/image23.jpeg){width="6.5in"
-height="5.464583333333334in"}
+![](files/media/image23.jpeg)
 
-![](files/media/image24.jpeg){width="6.5in"
-height="5.705555555555556in"}
+![](files/media/image24.jpeg)
 
-![](files/media/image25.jpeg){width="6.5in" height="5.375in"}
+![](files/media/image25.jpeg)
 
-![](files/media/image26.jpeg){width="6.5in"
-height="5.381944444444445in"}
+![](files/media/image26.jpeg)
 
 \[<span id="machinery_photos" class="anchor"></span>Caption: These
 photos, from the USSBS report, show the various machinery used in the
@@ -750,26 +733,15 @@ the projects, and 800 workers were put under the supervision of the
 Grube Wohlverwahrt. The locations in Kleinenbremen and Naamen
 encompassed five individual projects:[^59]
 
-1.  Elritze I (Schermbecker Stollen) 28,000 qm, finished January 1945,
-    > Focke-Wulf wanted it for part of their military production. 33,000
-    > cubic meters of stone taken out of quarry
+1.  Elritze I (Schermbecker Stollen) 28,000 qm, finished January 1945, Focke-Wulf wanted it for part of their military production. 33,000 cubic meters of stone taken out of quarry
 
-2.  Elritze II 2,000 qm finished in January 1945. Planned just for
-    > storage of materials and machines. Used by Ruhrstahl company from
-    > Brackwede near Bielefeld. Metallwarenfabrik Tönshoff and Co. KG
-    > also stored machines and a lathe (ein Lehrenbohrwerk). The tunnel
-    > was reachable by truck and was to be connected to the train
-    > station at Kleinenbremen.
+2.  Elritze II 2,000 qm finished in January 1945. Planned just for storage of materials and machines. Used by Ruhrstahl company from Brackwede near Bielefeld. Metallwarenfabrik Tönshoff and Co. KG also stored machines and a lathe (ein Lehrenbohrwerk). The tunnel was reachable by truck and was to be connected to the train station at Kleinenbremen.
 
-3.  Elritze III was to provide 10,000 square meters for the Preßwerk
-    > Ambi-Budd of Berlin.
+3.  Elritze III was to provide 10,000 square meters for the Preßwerk Ambi-Budd of Berlin.
 
-4.  Elritze IV was a an iron ore mine that was to provide 15,000
-    > square meters.
+4.  Elritze IV was a an iron ore mine that was to provide 15,000 square meters.
 
-5.  The cave (Grube) at Nammen was not useful for the armaments
-    > production, but the 5,000 square meters was used by Weserflug
-    > GmbH, Bremen.
+5.  The cave (Grube) at Nammen was not useful for the armaments production, but the 5,000 square meters was used by Weserflug GmbH, Bremen.
 
 **Betonwerk Weber**
 
