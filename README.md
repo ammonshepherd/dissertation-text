@@ -19,6 +19,8 @@ May 2016
 
 [Chapter Three: Barkhausen and Bauarbeit](https://github.com/mossiso/dissertation-text/blob/master/chapter3/chapter3.md)
 
+[Chapter Four: Women in Hausberge](https://github.com/mossiso/dissertation-text/blob/master/chapter4/chapter4.md)
+
 
 ## Contents of Each Chapter Folder
 
