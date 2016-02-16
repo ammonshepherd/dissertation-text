@@ -10,7 +10,7 @@ Commandant over all the Porta Westfalica camps, including Barkhausen, and Hausbe
 
 <img src="files/media/image1.jpeg" width="624" height="490" />
 
-\[<span id="Grosser_Kurfurst" class="anchor"></span>Figure 3-1. Hotel Großer Kurfürst was the headquarters for the local SS. Source: “Ansichtskarte / Postkarte Porta Westfalica, Arminsberg, Hotel Großer Kurfürst | Akpool.de.” Accessed September 11, 2015. http://www.akpool.de/ansichtskarten/184246-ansichtskarte-postkarte-porta-westfalica-arminsberg-hotel-grosser-kurfuerst.\]
+\[<span id="Grosser_Kurfurst" class="anchor"></span>Figure 3-1. Hotel Großer Kurfürst was the headquarters for the local SS. Source: “Ansichtskarte / Postkarte Porta Westfalica, Arminsberg, Hotel Großer Kurfürst | Akpool.de.” Accessed September 11, 2015. http://www.akpool.de/ansichtskarten/184246-ansichtskarte-postkarte-porta-westfalica-arminsberg-hotel-grosser-kurfuerst. \]
 
 <span id="KZ_organization" class="anchor"></span>Organization of KZ was the Nazi organization in miniature. On the lowest rung were the prisoners. A *Schieber* (pusher) would make sure the prisoners worked by beating prisoners with rubber truncheons, sticks and so forth. Overseeing the pushers were a series of foremen, who were in turn pressured by a band of *Kapos* (Kameradschafts-Polizei)[7]. These three levels of oversight meant that the prisoners managed themselves, leaving the SS and Luftwaffe guards with relatively little to do.[8]
 
@@ -75,7 +75,7 @@ He would beat so many people and send them to the infirmary, that he received be
 
 <img src="files/media/image3.jpeg" width="624" height="555" />
 
-\[<span id="Hotel_Kaiserhof-1" class="anchor"></span>Figure 3-2. Hotel Kaiserhof in 2009. Source: TUBS. *Deutsch: Hotel Kaiserhof in Porta Westfalica, Kreis Minden-Lübbecke, Nordrhein-Westfalen*, November 20, 2009. Own work This photograph was taken with a Canon Digital IXUS 500. https://commons.wikimedia.org/wiki/File:Porta_Westfalica,_2009-Nov_059.jpg.\]
+\[<span id="Hotel_Kaiserhof-1" class="anchor"></span>Figure 3-2. Hotel Kaiserhof in 2009. Source: TUBS. *Deutsch: Hotel Kaiserhof in Porta Westfalica, Kreis Minden-Lübbecke, Nordrhein-Westfalen*, November 20, 2009. Own work This photograph was taken with a Canon Digital IXUS 500. https://commons.wikimedia.org/wiki/File:Porta_Westfalica,_2009-Nov_059.jpg. \]
 
 <img src="files/media/image4.jpeg" width="624" height="555" />
 
