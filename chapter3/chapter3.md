@@ -75,7 +75,7 @@ He would beat so many people and send them to the infirmary, that he received be
 
 <img src="files/media/image3.jpeg" width="624" height="555" />
 
-\[<span id="Hotel_Kaiserhof-1" class="anchor"></span>Figure 3-2. Hotel Kaiserhof in 2009. Source: TUBS. *Deutsch: Hotel Kaiserhof in Porta Westfalica, Kreis Minden-Lübbecke, Nordrhein-Westfalen*, November 20, 2009. Own work This photograph was taken with a Canon Digital IXUS 500. https://commons.wikimedia.org/wiki/File:Porta\_Westfalica,\_2009-Nov\_059.jpg.\]
+\[<span id="Hotel_Kaiserhof-1" class="anchor"></span>Figure 3-2. Hotel Kaiserhof in 2009. Source: TUBS. *Deutsch: Hotel Kaiserhof in Porta Westfalica, Kreis Minden-Lübbecke, Nordrhein-Westfalen*, November 20, 2009. Own work This photograph was taken with a Canon Digital IXUS 500. https://commons.wikimedia.org/wiki/File:Porta_Westfalica,_2009-Nov_059.jpg.\]
 
 <img src="files/media/image4.jpeg" width="624" height="555" />
 
