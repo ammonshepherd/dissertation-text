@@ -21,6 +21,9 @@ May 2016
 
 [Chapter Four: Women in Hausberge](https://github.com/mossiso/dissertation-text/blob/master/chapter4/chapter4.md)
 
+[Chapter Five: Events and Locations](https://github.com/mossiso/dissertation-text/blob/master/chapter5/chapter5.md)
+
+[Conclusion: Meanings, Memories, and Movements](https://github.com/mossiso/dissertation-text/blob/master/conclusion/conclusion.md)
 
 ## Contents of Each Chapter Folder
 
