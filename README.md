@@ -17,6 +17,8 @@ May 2016
 
 [Chapter Two: Porta Westfalica](https://github.com/mossiso/dissertation-text/blob/master/chapter2/chapter2.md)
 
+[Chapter Three: Barkhausen and Bauarbeit](https://github.com/mossiso/dissertation-text/blob/master/chapter3/chapter3.md)
+
 
 ## Contents of Each Chapter Folder
 
