@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 
-
-folders=(introduction chapter1 chapter2 chapter3 chapter4 chapter5 conclusion)
+if [[ $1 ]]; then
+  folders=( $1 )
+else
+  folders=(introduction chapter1 chapter2 chapter3 chapter4 chapter5 conclusion)
+fi
 
 for folder in ${folders[@]}; do
   cd ${folder}

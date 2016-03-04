@@ -1,7 +1,12 @@
 #!/usr/bin/env bash
 
 date=`date +"%Y-%m-%d"`
-folders=(introduction chapter1 chapter2 chapter3 chapter4 chapter5 conclusion)
+
+if [[ $1 ]]; then
+  folders=( $1 )
+else
+  folders=(introduction chapter1 chapter2 chapter3 chapter4 chapter5 conclusion)
+fi
 
 order=0
 for folder in ${folders[@]}; do
